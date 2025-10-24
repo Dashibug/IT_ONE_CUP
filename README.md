@@ -1,3 +1,4 @@
+'''mermaid
 flowchart LR
   %% Direction
   %% Core layout
@@ -92,3 +93,4 @@ flowchart LR
   classDef dwh fill:#e6f7fb,stroke:#0891b2,stroke-width:1px
   classDef svc fill:#fff0f3,stroke:#ec4899,stroke-width:1px
   classDef out fill:#f8fafc,stroke:#64748b,stroke-width:1px
+'''
